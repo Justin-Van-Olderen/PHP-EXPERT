@@ -3,7 +3,7 @@
 ## Medewerkers
 
 ## Uitleg
-
+,
 In deze opdracht ga je data uit een database halen met behulp van het PDO-object. Dit is een soort tussenlaag tussen PHP (de code) en MySQL (de database). PDO staat voor PHP Data Object. PDO is vele malen beter dan zijn kleine broertjes `mysql` en `mysqli`.
 De voordelen zitten in
 
